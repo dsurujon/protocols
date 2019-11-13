@@ -1,6 +1,6 @@
-##Immunohistochemistry Protocol for Insulin and Glucagon
+## Immunohistochemistry Protocol for Insulin and Glucagon
 
-####DAY 1
+#### DAY 1
 
 * Mark slides with the antibody and the animal number (IN PENCIL) 
 * De-paraffinize the tissue by incubating in the following media:
@@ -45,7 +45,7 @@
 
 ---------------------
 
-####DAY 2
+#### DAY 2
 *	Aspirate and add 3-4 drops of TBST on each tissue, incubate for 5 minutes (do this 3 times)
 *	Add  200ul secondary antibody**(c)**, incubate 30 minutes
 *	Prepare ABC solution†, incubate it at room temperature for at least 30 minutes
